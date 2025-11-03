@@ -159,16 +159,10 @@ Saheli Nath
 📘 Aspiring Data Analyst
 
 linkedin: https://www.linkedin.com/in/saheli-nath28
+
 Email: nathsaheli1999@gmail.com
 
-🧭 Guided by Satish Dhawale Sir, Founder of Skill Course
 
-
-
-
-⭐ Acknowledgment
-
-Special thanks to Satish Dhawale Sir for providing this SQL assignment and guidance throughout the learning process.
 
 
 
